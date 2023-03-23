@@ -1,5 +1,9 @@
-[
-        
+{
+    "code": 200,
+    "status": "ok",
+    "page": 8,
+    "data": [
+        {
             "id_barang": "7RSf",
             "id_kategori": "415902",
             "nama_barang": "Telkomsel Telepon 80.000",
@@ -110,3 +114,4 @@
             "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
         }
     ]
+}
