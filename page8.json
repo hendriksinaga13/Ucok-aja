@@ -1,0 +1,112 @@
+[
+        
+            "id_barang": "7RSf",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 80.000",
+            "harga_barang": 50600,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:30:37",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RSe",
+            "id_kategori": "415902",
+            "nama_barang": "Telkomsel Telepon 50.000",
+            "harga_barang": 35125,
+            "kondisi_barang": "Baru",
+            "stok_barang": 1,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:30:02",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/693095600m.jpg"
+        },
+        {
+            "id_barang": "7RRk",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 150.000",
+            "harga_barang": 143125,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:03:04",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRg",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 125.000",
+            "harga_barang": 120050,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:02:13",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRd",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 100.000",
+            "harga_barang": 96190,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:01:44",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRY",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 90.000",
+            "harga_barang": 87445,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:00:40",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRV",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 80.000",
+            "harga_barang": 77445,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 13:00:12",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRT",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 70.000",
+            "harga_barang": 68490,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:59:44",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRR",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 60.000",
+            "harga_barang": 58495,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:59:14",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        },
+        {
+            "id_barang": "7RRO",
+            "id_kategori": "412797",
+            "nama_barang": "Indosat 40.000",
+            "harga_barang": 39400,
+            "kondisi_barang": "Baru",
+            "stok_barang": 100,
+            "berat": 0,
+            "tanggal": "2023-03-15 12:58:36",
+            "url_gambar_barang": "https://bukaolshop.s3-id-jkt-1.kilatstorage.id/13860/159358705b.jpg"
+        }
+    ]
